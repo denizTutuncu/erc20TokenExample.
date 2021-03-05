@@ -12,13 +12,14 @@ This project illustrates an erc 20 token crowdsale. Who creates the sea token co
 ```
 git clone https://github.com/denizTutuncu/erc20TokenExample..git
 cd erc20TokenExample
+cd SeaToken
 npm install 
 ```
 
 # How to test
 
 ```
-cd erc20TokenExample
+cd SeaToken
 npm run test
 ```
 
